@@ -1,0 +1,14 @@
+How to lunch local HTTP server
+
+1. To install python
+2. To lunch local HTTP server in the project directory
+    2.1. default port 8000
+    python3 -m http.server
+    2.2. special port (for example, 7800)
+    python3 -m http.server 7800
+    2.3. To check WEB browser [localhost: 8000]
+    You will see list of files of the directory in HTML page
+
+3. Need to install programming language on the WEB - server !!!
+
+The link is https://developer.mozilla.org/ru/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server
